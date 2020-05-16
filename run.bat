@@ -1,0 +1,1 @@
+node submitCode.js credentials.json metadata.json
